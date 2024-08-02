@@ -1,0 +1,15 @@
+/Users/kutaisiismayilova/Projects/Homework class/bin/Debug/net6.0/Homework class
+/Users/kutaisiismayilova/Projects/Homework class/bin/Debug/net6.0/Homework class.deps.json
+/Users/kutaisiismayilova/Projects/Homework class/bin/Debug/net6.0/Homework class.runtimeconfig.json
+/Users/kutaisiismayilova/Projects/Homework class/bin/Debug/net6.0/Homework class.dll
+/Users/kutaisiismayilova/Projects/Homework class/bin/Debug/net6.0/Homework class.pdb
+/Users/kutaisiismayilova/Projects/Homework class/obj/Debug/net6.0/Homework class.csproj.AssemblyReference.cache
+/Users/kutaisiismayilova/Projects/Homework class/obj/Debug/net6.0/Homework class.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutaisiismayilova/Projects/Homework class/obj/Debug/net6.0/Homework class.AssemblyInfoInputs.cache
+/Users/kutaisiismayilova/Projects/Homework class/obj/Debug/net6.0/Homework class.AssemblyInfo.cs
+/Users/kutaisiismayilova/Projects/Homework class/obj/Debug/net6.0/Homework class.csproj.CoreCompileInputs.cache
+/Users/kutaisiismayilova/Projects/Homework class/obj/Debug/net6.0/Homework class.dll
+/Users/kutaisiismayilova/Projects/Homework class/obj/Debug/net6.0/refint/Homework class.dll
+/Users/kutaisiismayilova/Projects/Homework class/obj/Debug/net6.0/Homework class.pdb
+/Users/kutaisiismayilova/Projects/Homework class/obj/Debug/net6.0/Homework class.genruntimeconfig.cache
+/Users/kutaisiismayilova/Projects/Homework class/obj/Debug/net6.0/ref/Homework class.dll

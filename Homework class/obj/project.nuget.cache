@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0GGYpIkc5CVPJDf28ThK9I5/KVfBwdFx2T9d5il9nCHBgNyjckbUNXY+6RLHfd4/Y6AKdvoA8ksSX0GabLwUQQ==",
+  "success": true,
+  "projectFilePath": "/Users/kutaisiismayilova/Projects/Homework class/Homework class.csproj",
+  "expectedPackageFiles": [
+    "/Users/kutaisiismayilova/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kutaisiismayilova/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/kutaisiismayilova/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
