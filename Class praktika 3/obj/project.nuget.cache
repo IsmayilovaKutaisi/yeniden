@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qOKV8+cDvIeKRMAPrvCS1JGdL6hvHUlNz0sYoT9mM6VGYyJglsRw/tLvsm5E5+lWdon0wrl+Akkf8zf8QihvHg==",
+  "success": true,
+  "projectFilePath": "/Users/kutaisiismayilova/Desktop/Class praktika 3/Class praktika 3.csproj",
+  "expectedPackageFiles": [
+    "/Users/kutaisiismayilova/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/kutaisiismayilova/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/kutaisiismayilova/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

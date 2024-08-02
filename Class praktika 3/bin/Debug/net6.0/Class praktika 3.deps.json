@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Class praktika 3/1.0.0": {
+        "runtime": {
+          "Class praktika 3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class praktika 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
