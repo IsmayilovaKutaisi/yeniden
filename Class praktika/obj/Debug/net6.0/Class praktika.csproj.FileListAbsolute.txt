@@ -1,0 +1,15 @@
+/Users/kutaisiismayilova/Projects/Class praktika/bin/Debug/net6.0/Class praktika
+/Users/kutaisiismayilova/Projects/Class praktika/bin/Debug/net6.0/Class praktika.deps.json
+/Users/kutaisiismayilova/Projects/Class praktika/bin/Debug/net6.0/Class praktika.runtimeconfig.json
+/Users/kutaisiismayilova/Projects/Class praktika/bin/Debug/net6.0/Class praktika.dll
+/Users/kutaisiismayilova/Projects/Class praktika/bin/Debug/net6.0/Class praktika.pdb
+/Users/kutaisiismayilova/Projects/Class praktika/obj/Debug/net6.0/Class praktika.csproj.AssemblyReference.cache
+/Users/kutaisiismayilova/Projects/Class praktika/obj/Debug/net6.0/Class praktika.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutaisiismayilova/Projects/Class praktika/obj/Debug/net6.0/Class praktika.AssemblyInfoInputs.cache
+/Users/kutaisiismayilova/Projects/Class praktika/obj/Debug/net6.0/Class praktika.AssemblyInfo.cs
+/Users/kutaisiismayilova/Projects/Class praktika/obj/Debug/net6.0/Class praktika.csproj.CoreCompileInputs.cache
+/Users/kutaisiismayilova/Projects/Class praktika/obj/Debug/net6.0/Class praktika.dll
+/Users/kutaisiismayilova/Projects/Class praktika/obj/Debug/net6.0/refint/Class praktika.dll
+/Users/kutaisiismayilova/Projects/Class praktika/obj/Debug/net6.0/Class praktika.pdb
+/Users/kutaisiismayilova/Projects/Class praktika/obj/Debug/net6.0/Class praktika.genruntimeconfig.cache
+/Users/kutaisiismayilova/Projects/Class praktika/obj/Debug/net6.0/ref/Class praktika.dll
