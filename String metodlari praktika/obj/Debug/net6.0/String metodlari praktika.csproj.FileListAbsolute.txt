@@ -1,0 +1,15 @@
+/Users/kutaisiismayilova/Projects/String metodlari praktika/bin/Debug/net6.0/String metodlari praktika
+/Users/kutaisiismayilova/Projects/String metodlari praktika/bin/Debug/net6.0/String metodlari praktika.deps.json
+/Users/kutaisiismayilova/Projects/String metodlari praktika/bin/Debug/net6.0/String metodlari praktika.runtimeconfig.json
+/Users/kutaisiismayilova/Projects/String metodlari praktika/bin/Debug/net6.0/String metodlari praktika.dll
+/Users/kutaisiismayilova/Projects/String metodlari praktika/bin/Debug/net6.0/String metodlari praktika.pdb
+/Users/kutaisiismayilova/Projects/String metodlari praktika/obj/Debug/net6.0/String metodlari praktika.csproj.AssemblyReference.cache
+/Users/kutaisiismayilova/Projects/String metodlari praktika/obj/Debug/net6.0/String metodlari praktika.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kutaisiismayilova/Projects/String metodlari praktika/obj/Debug/net6.0/String metodlari praktika.AssemblyInfoInputs.cache
+/Users/kutaisiismayilova/Projects/String metodlari praktika/obj/Debug/net6.0/String metodlari praktika.AssemblyInfo.cs
+/Users/kutaisiismayilova/Projects/String metodlari praktika/obj/Debug/net6.0/String metodlari praktika.csproj.CoreCompileInputs.cache
+/Users/kutaisiismayilova/Projects/String metodlari praktika/obj/Debug/net6.0/String metodlari praktika.dll
+/Users/kutaisiismayilova/Projects/String metodlari praktika/obj/Debug/net6.0/refint/String metodlari praktika.dll
+/Users/kutaisiismayilova/Projects/String metodlari praktika/obj/Debug/net6.0/String metodlari praktika.pdb
+/Users/kutaisiismayilova/Projects/String metodlari praktika/obj/Debug/net6.0/String metodlari praktika.genruntimeconfig.cache
+/Users/kutaisiismayilova/Projects/String metodlari praktika/obj/Debug/net6.0/ref/String metodlari praktika.dll
